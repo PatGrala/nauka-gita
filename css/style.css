@@ -1,0 +1,11 @@
+/* Global */
+
+body {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Moon Dance', cursive;
+}
+
+span {
+    font-style: italic;
+}
